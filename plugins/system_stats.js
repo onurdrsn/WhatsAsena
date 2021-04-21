@@ -27,7 +27,7 @@ if (Config.WORKTYPE == 'private') {
         else if (Config.ALIVEMSG == 'SELO') {
             await message.client.sendMessage(
             message.jid, 
-            fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/VID-20210228-WA0022.mp4"),
+            fs.readFileSync("/root/WhatsAsena/media/gif/VID-20210228-WA0022.mp4"),
             MessageType.video, 
             { mimetype: Mimetype.mpeg, caption: "```WhatsAsena Founder SELO 💑 ZEYNO İçin Çalışıyor!```\n\n*Version:* 0.27.9 - Dev\n*Grade:* Founder\n*AIPackages:* Xteam / Eva / DeepAI / WhatsAsena / RTDA\n*DeepAI Version:* ```1.0.17```\n*XTeam Verison:* ```4.2```" }
         )
@@ -35,7 +35,7 @@ if (Config.WORKTYPE == 'private') {
         else if (Config.ALIVEMSG == 'ONUR') {
             await message.client.sendMessage(
             message.jid, 
-            fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/VID-20210402-WA0119.mp4"),
+            fs.readFileSync("/root/WhatsAsena/media/gif/VID-20210402-WA0119.mp4"),
             MessageType.video, 
             { mimetype: Mimetype.mpeg, caption: "WhatsAsena Founder R25 İçin Çalışıyor!\n\n*Version:* 0.24.7 - Dev\n*Grade:* Founder\n*AIPackages:*Xteam / Eva / DeepAI / WhatsAsena / RTDA\n*DeepAI Version:* ```1.0.17```\n*XTeam Verison:* ```4.2```" }
         )
@@ -45,7 +45,7 @@ if (Config.WORKTYPE == 'private') {
         }
     }));
 
-    Asena.addCommand({pattern: 'sysd', fromMe: true, desc: Lang.SYSD_DESC}, (async (message, match) => {
+    Asena.addCommand({pattern: 'system', fromMe: true, desc: Lang.SYSD_DESC}, (async (message, match) => {
 
         const child = spawnSync('neofetch', ['--stdout']).stdout.toString('utf-8')
         await message.sendMessage(
@@ -63,7 +63,7 @@ else if (Config.WORKTYPE == 'public') {
         else if (Config.ALIVEMSG == 'SELO') {
             await message.client.sendMessage(
             message.jid, 
-            fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/VID-20210228-WA0022.mp4"),
+            fs.readFileSync("/root/WhatsAsena/media/gif/VID-20210228-WA0022.mp4"),
             MessageType.video, 
             { mimetype: Mimetype.mpeg, caption: "```WhatsAsena Founder SELO 💑 ZEYNO İçin Çalışıyor!```\n\n*Version:* 0.27.9 - Dev\n*Grade:* Founder\n*AIPackages:* Xteam / Eva / DeepAI / WhatsAsena / RTDA\n*DeepAI Version:* ```1.0.17```\n*XTeam Verison:* ```4.2```" }
         )
@@ -71,7 +71,7 @@ else if (Config.WORKTYPE == 'public') {
         else if (Config.ALIVEMSG == 'ONUR') {
             await message.client.sendMessage(
             message.jid, 
-            fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/VID-20210402-WA0119.mp4"),
+            fs.readFileSync("/root/WhatsAsena/media/gif/VID-20210402-WA0119.mp4"),
             MessageType.video, 
             { mimetype: Mimetype.mpeg, caption: "WhatsAsena Founder R25 İçin Çalışıyor!\n\n*Version:* 0.24.7 - Dev\n*Grade:* Founder\n*AIPackages:*Xteam / Eva / DeepAI / WhatsAsena / RTDA\n*DeepAI Version:* ```1.0.17```\n*XTeam Verison:* ```4.2```" }
         )
