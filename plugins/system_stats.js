@@ -35,7 +35,7 @@ if (Config.WORKTYPE == 'private') {
         else if (Config.ALIVEMSG == 'ONUR') {
             await message.client.sendMessage(
             message.jid, 
-            fs.readFileSync("/root/WhatsAsena/media/gif/VID-20210402-WA0119.mp4"),
+            fs.readFileSync("/root/WhatsAsena/blob/master/media/gif/VID-20210402-WA0119.mp4"),
             MessageType.video, 
             { mimetype: Mimetype.mpeg, caption: "WhatsAsena Founder R25 İçin Çalışıyor!\n\n*Version:* 0.24.7 - Dev\n*Grade:* Founder\n*AIPackages:*Xteam / Eva / DeepAI / WhatsAsena / RTDA\n*DeepAI Version:* ```1.0.17```\n*XTeam Verison:* ```4.2```" }
         )
