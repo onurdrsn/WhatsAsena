@@ -41,7 +41,7 @@ if (Config.WORKTYPE == 'private') {
         )
         }
         else {
-            await message.client.sendMessage(message.jid,Config.ALIVEMSG + '\n*Powered by ONUR 💑 MELİSA*', MessageType.text);
+            await message.client.sendMessage(message.jid,Config.ALIVEMSG + '\n*Powered by ONUR 💑 İLO*', MessageType.text);
         }
     }));
 
@@ -77,7 +77,7 @@ else if (Config.WORKTYPE == 'public') {
         )
         }
         else {
-            await message.client.sendMessage(message.jid,Config.ALIVEMSG + '\n*Powered by ONUR 💑 MELİSA*', MessageType.text);
+            await message.client.sendMessage(message.jid,Config.ALIVEMSG + '\n*Powered by ONUR 💑 İLO*', MessageType.text);
         }
     }));
 
