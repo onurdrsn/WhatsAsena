@@ -29,7 +29,7 @@ if (Config.WORKTYPE == 'private') {
             message.jid, 
             fs.readFileSync("/root/WhatsAsena/media/gif/VID-20210228-WA0022.mp4"),
             MessageType.video, 
-            { mimetype: Mimetype.mpeg, caption: "```WhatsAsena Founder SELO 💑 ZEYNO İçin Çalışıyor!```\n\n*Version:* 0.27.9 - Dev\n*Grade:* Founder\n*AIPackages:* Xteam / Eva / DeepAI / WhatsAsena / RTDA\n*DeepAI Version:* ```1.0.17```\n*XTeam Verison:* ```4.2```" }
+            { mimetype: Mimetype.mpeg, caption: "```WhatsAsena Founder ONUR 💑 HARİKA İçin Çalışıyor!```\n\n*Version:* 0.27.9 - Dev\n*Grade:* Founder\n*AIPackages:* Xteam / Eva / DeepAI / WhatsAsena / RTDA\n*DeepAI Version:* ```1.0.17```\n*XTeam Verison:* ```4.2```" }
         )
         }   
         else if (Config.ALIVEMSG == 'ONUR') {
@@ -41,7 +41,7 @@ if (Config.WORKTYPE == 'private') {
         )
         }
         else {
-            await message.client.sendMessage(message.jid,Config.ALIVEMSG + '\n*Powered by ONUR 💑 İLO*', MessageType.text);
+            await message.client.sendMessage(message.jid,Config.ALIVEMSG + '\n*Powered by ONUR 💑 HARİKA*', MessageType.text);
         }
     }));
 
@@ -65,7 +65,7 @@ else if (Config.WORKTYPE == 'public') {
             message.jid, 
             fs.readFileSync("/root/WhatsAsena/media/gif/VID-20210228-WA0022.mp4"),
             MessageType.video, 
-            { mimetype: Mimetype.mpeg, caption: "```WhatsAsena Founder SELO 💑 ZEYNO İçin Çalışıyor!```\n\n*Version:* 0.27.9 - Dev\n*Grade:* Founder\n*AIPackages:* Xteam / Eva / DeepAI / WhatsAsena / RTDA\n*DeepAI Version:* ```1.0.17```\n*XTeam Verison:* ```4.2```" }
+            { mimetype: Mimetype.mpeg, caption: "```WhatsAsena Founder ONUR 💑 HARİKA İçin Çalışıyor!```\n\n*Version:* 0.27.9 - Dev\n*Grade:* Founder\n*AIPackages:* Xteam / Eva / DeepAI / WhatsAsena / RTDA\n*DeepAI Version:* ```1.0.17```\n*XTeam Verison:* ```4.2```" }
         )
         }   
         else if (Config.ALIVEMSG == 'ONUR') {
@@ -77,7 +77,7 @@ else if (Config.WORKTYPE == 'public') {
         )
         }
         else {
-            await message.client.sendMessage(message.jid,Config.ALIVEMSG + '\n*Powered by ONUR 💑 İLO*', MessageType.text);
+            await message.client.sendMessage(message.jid,Config.ALIVEMSG + '\n*Powered by ONUR 💑 HARİKA*', MessageType.text);
         }
     }));
 
