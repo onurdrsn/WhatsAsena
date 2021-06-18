@@ -35,7 +35,7 @@
 
   </a>
   <a href="https://github.com/onur55-tr/">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Thiccy&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Onur&color=purple&style=plastic">
 
   </a>
   <a href="https://t.me/asenaremaster">
