@@ -5,11 +5,11 @@
 - [@fusufs](https://t.me/fusufs)
 
 <p align="center">
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/fork">
+  <a href="https://github.com/onur55-tr/WhatsAsena/fork">
     <img src="https://img.shields.io/github/forks/phaticusthiccy/WhatsAsenaDuplicated?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/stargazers">
+  <a href="https://github.com/onur55-tr/WhatsAsena/stargazers">
     <img src="https://img.shields.io/github/stars/phaticusthiccy/WhatsAsenaDuplicated?style=social">
   </a>
   <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/commits/master">
@@ -18,23 +18,23 @@
 </p>
 
 <p align="center">
-  <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
+  <a href="httsp://github.com/onur55-tr/WhatsAsena">
     <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
+  <a href="httsp://github.com/onur55-tr/WhatsAsena">
     <img src="https://img.shields.io/codefactor/grade/github/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Code%20Quality&style=plastic">
 
   </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/blob/master/LICENSE">
+  <a href="https://github.com/onur55-tr/WhatsAsena/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Lisance&style=plastic">
 
   </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated">
+  <a href="https://github.com/onur55-tr/WhatsAsena">
     <img src="https://img.shields.io/github/languages/top/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/phaticusthiccy">
+  <a href="https://github.com/onur55-tr/">
     <img src="https://img.shields.io/static/v1?label=Author&message=Thiccy&color=purple&style=plastic">
 
   </a>
